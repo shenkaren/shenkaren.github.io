@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"85Ny":function(e,t,i){"use strict";i.r(t);var r=i("q1tI"),a=i.n(r),h={large:{width:300,height:380},compact:{width:300,height:80}};t.default=function(e){var t=e.uri,i=e.view,r=e.theme,n=e.size;return a.a.createElement("iframe",{title:"Spotify",className:"SpotifyPlayer",src:"https://embed.spotify.com/?uri="+t+"&view="+i+"&theme="+r,width:h[n].width,height:h[n].height,frameBorder:"0",allowtransparency:"true"})}}}]);
+//# sourceMappingURL=component---src-pages-posts-spotify-player-js-47684afe6e93ab6db408.js.map
